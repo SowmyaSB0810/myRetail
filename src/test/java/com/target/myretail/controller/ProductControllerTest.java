@@ -1,8 +1,8 @@
-package com.target.myRetail.controller;
+package com.target.myretail.controller;
 
-import com.target.myRetail.model.Money;
-import com.target.myRetail.model.ProductItem;
-import com.target.myRetail.service.ProductService;
+import com.target.myretail.model.Money;
+import com.target.myretail.model.ProductItem;
+import com.target.myretail.service.ProductService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

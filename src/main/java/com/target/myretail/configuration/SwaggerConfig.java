@@ -1,4 +1,4 @@
-package com.target.myRetail.configuration;
+package com.target.myretail.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

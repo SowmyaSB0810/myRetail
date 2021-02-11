@@ -1,9 +1,9 @@
-package com.target.myRetail.service;
+package com.target.myretail.service;
 
-import com.target.myRetail.exception.ProductNotFoundException;
-import com.target.myRetail.model.Money;
-import com.target.myRetail.model.ProductItem;
-import com.target.myRetail.repository.ProductRepository;
+import com.target.myretail.exception.ProductNotFoundException;
+import com.target.myretail.model.Money;
+import com.target.myretail.model.ProductItem;
+import com.target.myretail.repository.ProductRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

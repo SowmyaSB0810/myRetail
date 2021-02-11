@@ -1,4 +1,4 @@
-package com.target.myRetail.model;
+package com.target.myretail.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

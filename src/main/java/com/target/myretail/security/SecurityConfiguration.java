@@ -1,4 +1,4 @@
-package com.target.myRetail.security;
+package com.target.myretail.security;
 
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.context.annotation.Configuration;

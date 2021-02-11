@@ -1,8 +1,8 @@
-package com.target.myRetail.controller;
+package com.target.myretail.controller;
 
-import com.target.myRetail.exception.ProductNotFoundException;
-import com.target.myRetail.model.ProductItem;
-import com.target.myRetail.service.ProductService;
+import com.target.myretail.exception.ProductNotFoundException;
+import com.target.myretail.model.ProductItem;
+import com.target.myretail.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
