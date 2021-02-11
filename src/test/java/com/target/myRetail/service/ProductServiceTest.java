@@ -24,9 +24,6 @@ public class ProductServiceTest {
     @Mock
     private ProductRepository productRepository;
 
-    @Mock
-    private ProductDescriptionRepository productDescriptionRepository;
-
     @Autowired
     private ProductService productService;
 

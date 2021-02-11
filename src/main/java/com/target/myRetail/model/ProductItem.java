@@ -13,8 +13,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class ProductItem {
     @Id
     private int id;
-
     Money current_price;
-
     String product_desc;
 }
